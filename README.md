@@ -2,7 +2,7 @@
 ![](https://count.getloli.com/@Stargazer?name=Stargazer&theme=miku&padding=7&offset=7&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
 ![](https://raw.githubusercontent.com/LiufanChen/LiufanChen/refs/heads/output/github-contribution-grid-snake.svg)
 
-### 🌐 个人简介  <img align="right" src="https://streak-stats.demolab.com/?user=LiufanChen" alt="GitHub Streak" width="400" height="200"/>
+### 🌐 个人简介  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiufanChen" alt="GitHub Streak" width="250" height="125"/> <img align="right" src="https://streak-stats.demolab.com/?user=LiufanChen" alt="GitHub Streak" width="300" height="150"/>
 - 🐕 姓名: 陈柳帆    
 - 👦 性别: 男
 - 🧭 年龄: 24
