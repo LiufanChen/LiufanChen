@@ -2,7 +2,7 @@
 ![](https://count.getloli.com/@Stargazer?name=Stargazer&theme=miku&padding=7&offset=7&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
 ![](https://raw.githubusercontent.com/LiufanChen/LiufanChen/refs/heads/output/github-contribution-grid-snake.svg)
 
-<table>
+<table border="1" bordercolor="transparent" cellspacing="0" cellpadding="8">
   <tr>
     <td>
       <h3>🌐 个人简介</h3>
