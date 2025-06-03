@@ -2,12 +2,28 @@
 ![](https://count.getloli.com/@Stargazer?name=Stargazer&theme=miku&padding=7&offset=7&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
 ![](https://raw.githubusercontent.com/LiufanChen/LiufanChen/refs/heads/output/github-contribution-grid-snake.svg)
 
-### 🌐 个人简介  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiufanChen" alt="GitHub Streak" width="250" height="125"/> <img align="right" src="https://streak-stats.demolab.com/?user=LiufanChen" alt="GitHub Streak" width="300" height="150"/>
-- 🐕 姓名: 陈柳帆    
-- 👦 性别: 男
-- 🧭 年龄: 24
-- 🌏 现居: 浙江杭州
-- 📞 手机: 13626646911
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap; width: 100%; box-sizing: border-box;">
+  <!-- 左边文本信息 -->
+  <div style="flex: 1; min-width: 280px; padding-right: 10px;">
+    <h3>🌐 个人简介</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>🐕 姓名: 陈柳帆</li>
+      <li>👦 性别: 男</li>
+      <li>🧭 年龄: 24</li>
+      <li>🌏 现居: 浙江杭州</li>
+      <li>📞 手机: 13626646911</li>
+    </ul>
+  </div>
+
+  <!-- 右边图片（横向排列） -->
+  <div style="display: flex; gap: 8px; flex-shrink: 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiufanChen" alt="GitHub 常用语言" style="width: 200px; height: 110px;">
+    <img src="https://streak-stats.demolab.com/?user=LiufanChen" alt="GitHub Streak" style="width: 220px; height: 110px;">
+  </div>
+</div>
+
+
+
   
  
 ### 💻 技术栈
