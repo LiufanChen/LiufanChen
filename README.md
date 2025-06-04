@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: flex-end; align-items: center;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiufanChen&cache_bust=1" alt="GitHub 常用语言" style="width: 250px; height: 150px; margin-left: 10px;">
-  <img align="right" src="https://streak-stats.demolab.com/?user=LiufanChen&cache_bust=1" alt="GitHub Streak" style="width: 450px; height: 150px;">
+  <img align="right" src="https://streak-stats.demolab.com/?user=LiufanChen&cache_bust=1" alt="GitHub Streak" style="width: 400px; height: 150px;">
 </div>
 
 - 🐕 姓名: 陈柳帆
