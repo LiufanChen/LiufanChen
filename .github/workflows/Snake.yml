@@ -3,7 +3,8 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+   - cron: "0 16 * * *"   # 每天 UTC 16:00 / 北京时间 00:00 触发
+
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -13,8 +14,6 @@ on:
     branches:
     - main
     
-  
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -26,6 +25,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          graph_timezone: Asia/Shanghai
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
